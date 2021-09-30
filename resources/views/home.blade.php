@@ -10,6 +10,7 @@
 
 <body>
     <p>Hello word</p>
+    <p>My name is {{$name}}</p>
 </body>
 
 </html>
